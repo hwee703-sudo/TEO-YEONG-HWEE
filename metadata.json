@@ -1,0 +1,5 @@
+{
+  "name": "InsurePro Quotation Builder",
+  "description": "An internal tool for insurance advisors to generate professional coverage summaries and PDF comparison tables based on standardized product rules.",
+  "requestFramePermissions": []
+}
